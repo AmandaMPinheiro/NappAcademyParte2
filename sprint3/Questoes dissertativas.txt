@@ -1,0 +1,8 @@
+06 - A classe DAO é responsável por fazer a interface entre o BD e as demais classes.  
+
+11 - A classe Registro recebe as informações do BD e as organiza de modo que as mesmas podem ser utilizadas com 
+mais facilidade pela classe Compras.  
+
+16 - A classe Compras unifica as funções das duas classes anteriores, ou seja, pega as informações 
+no BD e aloca no Registro, para que as consultas necessárias possam ser feitas, 
+bem como a exportação do arquivo csv.
